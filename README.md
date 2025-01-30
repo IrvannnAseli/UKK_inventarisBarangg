@@ -74,7 +74,7 @@ Follow these steps to set up the project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/AxelMardiyo/UKK-Inventaris-Barang.git
+git clone [https://github.com/IrvannnAseli/UKK_inventarisBarangg.git]
 ```   
 Move into the project directory:
     
